@@ -3,6 +3,7 @@
 Looking to contribute something to Bootstrap? **Here's how you can help.**
 
 
+issue 2 TEST solved
 
 ## Reporting issues
 
