@@ -1,3 +1,4 @@
+close issue 2
 # Contributing to Bootstrap
 
 Looking to contribute something to Bootstrap? **Here's how you can help.**
